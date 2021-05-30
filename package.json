@@ -27,7 +27,7 @@
     "build": "tsc -p tsconfig.release.json",
     "build:watch": "tsc -w -p tsconfig.release.json",
     "lint": "eslint . --ext .ts,.tsx",
-    "docker:buils": "docker build -t victor141516/lyrics-api:latest .",
+    "docker:build": "docker build -t victor141516/lyrics-api:latest .",
     "docker:push": "docker push victor141516/lyrics-api:latest"
   },
   "author": "victor141516 <yomellamovictor@gmail.com>",
