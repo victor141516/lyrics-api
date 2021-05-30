@@ -1,6 +1,8 @@
 # Lyrics API
 
 
+API to get lyrics from Genius. As easy as make a `GET` to `/?q=name+of+the+song+name+of+artist`
+
 ## How to
 
 ```sh
